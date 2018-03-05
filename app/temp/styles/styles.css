@@ -423,7 +423,7 @@ textarea {
 
 body {
   font-family: 'Roboto', sans-serif;
-  color: #333;
+  color: #000;
 }
 
 img {
@@ -436,7 +436,7 @@ img {
 }
 
 a {
-  color: #d59541;
+  color: #c28432;
 }
 
 .large-hero {
@@ -522,7 +522,7 @@ a {
 }
 
 .btn--orange {
-  background-color: #d59541;
+  background-color: #c28432;
 }
 
 .btn--large {
@@ -665,7 +665,7 @@ a {
 }
 
 .headline--orange {
-  color: #d59541;
+  color: #c28432;
 }
 
 .headline--small {
@@ -976,7 +976,7 @@ a {
 }
 
 .testimonial__subtitle {
-  color: #d59541;
+  color: #c28432;
   text-align: center;
   font-weight: 400;
   font-size: 0.9375rem;
@@ -1431,7 +1431,7 @@ Instead edit gulp/templates/sprite */
 }
 
 .modal__close:hover {
-  color: #d59541;
+  color: #c28432;
 }
 
 .social-icons {
@@ -1439,7 +1439,7 @@ Instead edit gulp/templates/sprite */
 }
 
 .social-icons__icon {
-  background-color: #d59541;
+  background-color: #c28432;
   display: inline-block;
   margin: 0 5px 5px 5px;
   width: 33%;
