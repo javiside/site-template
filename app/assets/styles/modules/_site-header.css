@@ -43,9 +43,15 @@
       }
     }
   }
-
+  &__page_icons{
+	position: absolute;
+    top: 0;
+    left: 10%;
+  }
   &__logo__graphic {
     text-indent: -9999px;
+	position: relative;
+    top: 20px;
   }
 
   &__menu-icon {
