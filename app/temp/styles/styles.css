@@ -878,7 +878,7 @@ a {
 }
 
 .section-title__icon {
-  display: block;
+  display: inline-block;
   margin-left: auto;
   margin-right: auto;
   margin-bottom: .6rem;
